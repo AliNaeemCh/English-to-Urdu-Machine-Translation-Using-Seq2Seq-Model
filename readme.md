@@ -68,7 +68,7 @@ The model follows an **encoder-decoder** architecture with **LSTM** layers:
 - **English**: I like eating strawberries  
   **Urdu**: مجھے آڑو کھانا پسند ہے
 
-### Required Libraries:
+## Required Libraries:
 
 - **numpy**: For numerical computations and data handling.
 - **tensorflow**: For building and training the Seq2Seq model.
